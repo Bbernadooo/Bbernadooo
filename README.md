@@ -74,5 +74,5 @@ I don’t just make things work—I make them **feel right**.
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernabas-tadese-4b2791351/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-192A56?style=for-the-badge&logo=web&logoColor=white)]([https://yourportfolio.com](https://bernabastadese.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-192A56?style=for-the-badge&logo=web&logoColor=white)]([https://bernabastadese.vercel.app/)]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bbernadoo)
